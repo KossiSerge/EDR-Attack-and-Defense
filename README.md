@@ -7,9 +7,8 @@ screenshots
 
 ## Setting Victim VM
 
-### Screenshot:
-![Desabling microsoft defender](https://github.com/KossiSerge/EDR-Detection-Engineering/Assets/Screenshots/desabling microsoftdefender.png)
-
+![disable services via registry](https://github.com/user-attachments/assets/912095f4-7ffe-428c-b255-f177fcf78b35)
+![disabling microsoftdefender](https://github.com/user-attachments/assets/a9e7f033-a086-435b-aac8-e054cd57081b)
 
 ## Setting Attack VM
 
