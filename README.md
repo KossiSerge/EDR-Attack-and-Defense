@@ -64,18 +64,17 @@ La detection de l attaque du lsass permet d'identifier le process a l origine de
 ![virustotal](https://github.com/user-attachments/assets/76986c4a-c823-4f0a-a78c-943ca6beff81)
 
 
-## Telemetries Visualization
-![overview of limacharlie](https://github.com/user-attachments/assets/044669be-6068-4826-bce5-8740015fac6d)
+
 ![malicious process](https://github.com/user-attachments/assets/ca3e7fd6-b779-40c9-bcd6-560206e71721)
-![sensor ](https://github.com/user-attachments/assets/13baeb9f-503d-4269-bed6-baa4353d36e0)
+
 
 
 ## Blocking and Preventing Attacks
 
 ### Writing Detection Rules in LimaCharlie
-
+Regle pour parer a l attaque sur le lsass
 ![Rule Lsass Created](https://github.com/user-attachments/assets/05990230-b421-498e-b539-eaf451a4e649)
-
+Regle pour parer a l attaque sur le vssas
 ![rule for vssadmin delection](https://github.com/user-attachments/assets/096b7a91-9b36-43f1-96d4-065123c725fc)
 
 
