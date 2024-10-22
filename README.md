@@ -43,6 +43,7 @@ Attaque credentials dump vssac
 
 ![vssadmin suppression](https://github.com/user-attachments/assets/54d88213-ba9e-495b-b794-ea4ebba74898)
 ![details suppression de vssadmin](https://github.com/user-attachments/assets/cc47a5d5-eb51-4b94-9a4d-5b25afb2bc9a)
+
 #### Ransomware
 J'ai fait la simulation d'un ransmeware en utilisant PSRansom.
 Telechargement et installation du Server C&C
@@ -51,9 +52,6 @@ Telechargement et installation du Server C&C
 
 Apres execution du script powershell, on chiffre les donnees et on les exfiltre:
 
-
-
-![connection et exfiltration de donnnees](https://github.com/user-attachments/assets/c2f3c12f-daaa-4501-8211-a021e95c11ab)
 
 Detectioon dans limacharlie de l execution du powshell
 ![dossier a chiffrer](https://github.com/user-attachments/assets/8cc378d9-1a88-4931-91fb-f9ffe54483b7)
@@ -65,7 +63,7 @@ Note de chiffrement:
 ![Note de chiffrement](https://github.com/user-attachments/assets/6ef92b24-f63f-434f-b4e3-fe7e0e60cd04)
 ![Restauration des fichiers](https://github.com/user-attachments/assets/8d43b5ae-d40d-4241-b19b-010cc43a91d5)
 
-
+![connection et exfiltration de donnnees](https://github.com/user-attachments/assets/c2f3c12f-daaa-4501-8211-a021e95c11ab)
 ## Creation de regles 
 
 ### Writing Detection Rules in LimaCharlie
