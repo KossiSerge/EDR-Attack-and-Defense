@@ -26,16 +26,15 @@ Execution sur la machine victim, ce qui fait qu elle est active sur la machine v
 #### Attaque du lsass.exe
 
 Attaque du lsass.exe, qui est enregistre dans la telemetrie. Le lsass.exe qui contient des mots de passe des utilisatuers surtout ceux des administrateurs
-![lsass dmp](https://github.com/user-attachments/assets/3d07f264-cba3-45a4-aa02-9de528a2c1df)
 
 ![notif suppression de vssadmin](https://github.com/user-attachments/assets/066ad76f-9ce4-4029-b8fb-0c12cb68326f)
 
-![Targetting lsass exe](https://github.com/user-attachments/assets/d736d604-ba38-4695-8ad8-b869da321ce0)
+
 ![source and target detect by the rule](https://github.com/user-attachments/assets/7778d9c7-81b0-4004-9084-60e64d11b6b6)
 
 
 On peut effectivement voir dans Limacharlie le fichier malvaillant qui s'execute au niveau de la victime.
-![process active on the network](https://github.com/user-attachments/assets/91a0e6ec-c696-4b32-a820-b3138be7f874)
+
 ![process active on the network](https://github.com/user-attachments/assets/441cba4b-cfac-4fcf-877a-e880b7792a7a)
 
 
