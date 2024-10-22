@@ -6,7 +6,11 @@ SOC Analyst lab using LimaCharlie [EDR], Sliver [C&amp;C], and VMs to simulate a
 screenshots
 
 ## Setting Victim VM
+
+### Screenshot:
 ![Desabling microsoft defender](/Assets/Screenshots/desabling microsoftdefender.png)
+
+
 ## Setting Attack VM
 
 !
