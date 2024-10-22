@@ -42,10 +42,9 @@ J'ai fait la simulation d'un ransmeware en utilisant PSRansom.
 
 Telechargement et installation du Server C&C
 ![C2Server installation](https://github.com/user-attachments/assets/3b54a9b3-ddd2-4da5-9c7b-b84d91fe3aad)
-![download PSRansom21](https://github.com/user-attachments/assets/834873df-ff59-40ab-b16a-ae9018f249c6)
 
-Ecoute sur les tout les ports en attente de connection depuis le post de la victime
-![listening on all ports](https://github.com/user-attachments/assets/b18acb47-adb6-43dc-bc30-71fdd2fdbab0)
+
+
 
 Apres execution du script powershell, on chiffre les donnees et on les exfiltre:
 ![dossier a chiffrer](https://github.com/user-attachments/assets/8cc378d9-1a88-4931-91fb-f9ffe54483b7)
