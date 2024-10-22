@@ -45,17 +45,18 @@ Attaque credentials dump vssac
 ![details suppression de vssadmin](https://github.com/user-attachments/assets/cc47a5d5-eb51-4b94-9a4d-5b25afb2bc9a)
 #### Ransomware
 J'ai fait la simulation d'un ransmeware en utilisant PSRansom.
-![dossier apres chiffrement](https://github.com/user-attachments/assets/8a71482f-10cc-4933-b354-9d2f755f5600)
 Telechargement et installation du Server C&C
 ![C2Server installation](https://github.com/user-attachments/assets/3b54a9b3-ddd2-4da5-9c7b-b84d91fe3aad)
 
 
 Apres execution du script powershell, on chiffre les donnees et on les exfiltre:
-![dossier a chiffrer](https://github.com/user-attachments/assets/8cc378d9-1a88-4931-91fb-f9ffe54483b7)
+![dossier apres chiffrement](https://github.com/user-attachments/assets/8a71482f-10cc-4933-b354-9d2f755f5600)
+
 
 ![connection et exfiltration de donnnees](https://github.com/user-attachments/assets/c2f3c12f-daaa-4501-8211-a021e95c11ab)
 
 Detectioon dans limacharlie de l execution du powshell
+![dossier a chiffrer](https://github.com/user-attachments/assets/8cc378d9-1a88-4931-91fb-f9ffe54483b7)
 ![Execution powershell](https://github.com/user-attachments/assets/67b7bdee-0ba0-4fc5-bbba-5563e32e89b9)
 
 
