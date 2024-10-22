@@ -61,11 +61,13 @@ Detectioon dans limacharlie de l execution du powshell
 A l aide d'une note laisser dans le dossier chiffrer, on peut dechiffrer le dossier avec la cle de dechiffrement.
 Note de chiffrement:
 ![Note de chiffrement](https://github.com/user-attachments/assets/6ef92b24-f63f-434f-b4e3-fe7e0e60cd04)
-![Restauration des fichiers](https://github.com/user-attachments/assets/8d43b5ae-d40d-4241-b19b-010cc43a91d5)
-
 
 
 ![Execution powershell](https://github.com/user-attachments/assets/67b7bdee-0ba0-4fc5-bbba-5563e32e89b9)
+
+![Restauration des fichiers](https://github.com/user-attachments/assets/8d43b5ae-d40d-4241-b19b-010cc43a91d5)
+![dossier a chiffrer](https://github.com/user-attachments/assets/5fbf21a7-e57b-434a-869d-449edb6b6863)
+
 ## Creation de regles 
 
 ### Writing Detection Rules in LimaCharlie
