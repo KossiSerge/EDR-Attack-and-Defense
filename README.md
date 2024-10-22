@@ -6,10 +6,8 @@ SOC Analyst lab using LimaCharlie [EDR], Sliver [C&amp;C], and VMs to simulate a
 ## Setting Victim VM
 We are disabling our windows VM safeguard
 On desactive le parefeu et microsoft defender 
-![disable services via registry](https://github.com/user-attachments/assets/912095f4-7ffe-428c-b255-f177fcf78b35)
 ![disabling microsoftdefender](https://github.com/user-attachments/assets/a9e7f033-a086-435b-aac8-e054cd57081b)
-Unrestrict execution policy qui empeche l executioon de powershell que nous allons utiliser lors de la simulation du ransomware
-![unrestriced execution policy on Windows 11](https://github.com/user-attachments/assets/6e71de30-85ac-4a2a-863f-311eec69d40a)
+![disable services via registry](https://github.com/user-attachments/assets/912095f4-7ffe-428c-b255-f177fcf78b35)
 
 ## Setting Attack VM
 Installation of Sliver qui un C&C
