@@ -50,7 +50,7 @@ Apres execution du script powershell, on chiffre les donnees et on les exfiltre:
 ![dossier a chiffrer](https://github.com/user-attachments/assets/8cc378d9-1a88-4931-91fb-f9ffe54483b7)
 ![dossier apres chiffrement](https://github.com/user-attachments/assets/8a71482f-10cc-4933-b354-9d2f755f5600)
 ![connection et exfiltration de donnnees](https://github.com/user-attachments/assets/c2f3c12f-daaa-4501-8211-a021e95c11ab)
-![chiffrement et exifiltration des donnees](https://github.com/user-attachments/assets/b2a977e1-7678-411e-b79b-522937a10a11)
+
 A l aide d'une note laisser dans le dossier chiffrer, on peut dechiffrer le dossier avec la cle de dechiffrement.
 Note de chiffrement:
 ![Note de chiffrement](https://github.com/user-attachments/assets/6ef92b24-f63f-434f-b4e3-fe7e0e60cd04)
