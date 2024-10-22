@@ -68,8 +68,7 @@ Note de chiffrement:
 ## Creation de regles 
 
 ### Writing Detection Rules in LimaCharlie
-Regle pour parer a l attaque sur le lsass
-![Rule Lsass Created](https://github.com/user-attachments/assets/05990230-b421-498e-b539-eaf451a4e649)
+
 Regle pour parer a l attaque sur le vssas
 ![rule for vssadmin delection](https://github.com/user-attachments/assets/096b7a91-9b36-43f1-96d4-065123c725fc)
 
