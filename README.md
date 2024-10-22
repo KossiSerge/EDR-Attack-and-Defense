@@ -31,14 +31,17 @@ Attaque du lsass.exe, qui est enregistre dans la telemetrie. Le lsass.exe qui co
 ![source and target detect by the rule](https://github.com/user-attachments/assets/7778d9c7-81b0-4004-9084-60e64d11b6b6)
 
 
+
+![vssadmin suppression](https://github.com/user-attachments/assets/54d88213-ba9e-495b-b794-ea4ebba74898)
+![details suppression de vssadmin](https://github.com/user-attachments/assets/cc47a5d5-eb51-4b94-9a4d-5b25afb2bc9a)
+
 On peut effectivement voir dans Limacharlie le fichier malvaillant qui s'execute au niveau de la victime.
 
 ![process active on the network](https://github.com/user-attachments/assets/441cba4b-cfac-4fcf-877a-e880b7792a7a)
 
-#### Attaque sur vssas
+La detection de l attaque du lsass permet d'identifier le process a l origine de l attaque, mais une investigation du process en utilisant Virustotal ne nous permet pas d'avoir plus d'information sur ce dernier. Ceci s'expliaue par le fait que nous avon creer de toute piece le fichier malveillant et n est donc pas repertorier dans les base de donnees des OSINT
 
-![vssadmin suppression](https://github.com/user-attachments/assets/54d88213-ba9e-495b-b794-ea4ebba74898)
-![details suppression de vssadmin](https://github.com/user-attachments/assets/cc47a5d5-eb51-4b94-9a4d-5b25afb2bc9a)
+![virustotal](https://github.com/user-attachments/assets/76986c4a-c823-4f0a-a78c-943ca6beff81)
 
 #### Ransomware
 J'ai fait la simulation d'un ransmeware en utilisant PSRansom.
@@ -62,19 +65,7 @@ Note de chiffrement:
 ![Restauration des fichiers](https://github.com/user-attachments/assets/8d43b5ae-d40d-4241-b19b-010cc43a91d5)
 
 
-# Detection
-
-La detection de l attaque du lsass permet d'identifier le process a l origine de l attaque, mais une investigation du process en utilisant Virustotal ne nous permet pas d'avoir plus d'information sur ce dernier. Ceci s'expliaue par le fait que nous avon creer de toute piece le fichier malveillant et n est donc pas repertorier dans les base de donnees des OSINT
-![virustotal inspection](https://github.com/user-attachments/assets/4541b518-96b0-424d-8957-19de5b19eb34)
-![virustotal](https://github.com/user-attachments/assets/76986c4a-c823-4f0a-a78c-943ca6beff81)
-
-
-
-![malicious process](https://github.com/user-attachments/assets/ca3e7fd6-b779-40c9-bcd6-560206e71721)
-
-
-
-## Blocking and Preventing Attacks
+## Creation de regles 
 
 ### Writing Detection Rules in LimaCharlie
 Regle pour parer a l attaque sur le lsass
@@ -82,9 +73,3 @@ Regle pour parer a l attaque sur le lsass
 Regle pour parer a l attaque sur le vssas
 ![rule for vssadmin delection](https://github.com/user-attachments/assets/096b7a91-9b36-43f1-96d4-065123c725fc)
 
-
-### Application of detection rules
-Pour detecter ces attaques nous avons ecrity et tester mise en place des regles.
-![Detection rule applied](https://github.com/user-attachments/assets/b606aeda-bac3-42b7-b96e-c198ff3d46f3)
-
-![test rule](https://github.com/user-attachments/assets/563cf7c6-3523-44d2-ad05-5cce469f01c2)
